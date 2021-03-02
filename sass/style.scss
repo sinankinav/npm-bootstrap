@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+$theme-bg:#ccc;
+
+body {
+    background-color: $theme-bg;
+}
+.carousel-item img{
+    width: 100%;
+}
